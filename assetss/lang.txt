@@ -1,0 +1,1 @@
+LangChain is a framework for developing applications powered by language models.LangChain provides many modules that can be used to build language model applications. Modules can be combined to create more complex applications, or be used individually for simple applications.
